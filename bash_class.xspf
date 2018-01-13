@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/tinker/Music/Sibling%20Rivalry.mp3</location>
+			<duration>177950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Night%20Force.mp3</location>
+			<duration>255427</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Keygen_msuic/AGAiN%20-%20FairStars%20MP3%20Recorderkg.XM</location>
+			<annotation>Tiger Mission Hi-score
+        composed by
+ Johannes Bjerregaard
+      and tracked by
+    Thomas Mogensen
+
+  finished: 08.09.2001
+
+The module is a cover
+       of an old tune
+  composed on the c64
+      back in 1987 by
+ Johannes Bjerregaard
+  who&#39;s an ex-member
+   of Maniacs of Noise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback is welcome at
+   tmog98@hum.auc.dk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            signed,
+    Thomas Mogensen
+
+  (C) COPYRIGHT 2001
+    MANIACS of NOISE
+</annotation>
+			<duration>75580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Dubmood%20-%203D%20Galax%20-%20YouTube.mp4</location>
+			<duration>219938</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/%EF%BC%B2%EF%BC%A5%EF%BC%B3%EF%BC%B4.flv</location>
+			<duration>1662060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Keygen_msuic/FFF%20-%20BlindWriteSuite5.2.23.156crk.mod</location>
+			<title>her 41</title>
+			<annotation>by the untouchable&gt;&gt;&gt;
+* estrayk / capsule *
+
+s
+
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+release date&gt;22/06/99
+</annotation>
+			<duration>102399</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Insert%20No%20Coins%20-%20Razor1911%20-%20YouTube.mp4</location>
+			<duration>175728</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Keygen_msuic/BLiZZARD%20-%20Sonic%20N%20intro.xm</location>
+			<title>The Blizzard</title>
+			<annotation>Tracked and Composed
+By LHS/DFS
+(c)opyright by LHS
+
+Samples by Ghidora
+
+For a Blizzard intro!
+Finished 06.02.2003
+
+
+
+
+
+
+
+
+
+
+</annotation>
+			<duration>162446</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/%EF%BC%A6%EF%BC%A1%EF%BC%AC%EF%BC%AC%EF%BC%A9%EF%BC%AE%C2%A0%20%EF%BC%A1%EF%BC%B0%EF%BC%A1%EF%BC%B2%EF%BC%B4.flv</location>
+			<duration>248035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Mason%20vs%20Princess%20Superstar%20-%20Perfect%20(Exceeder)%20(Official%20Music%20Video)%20%5BHD%5D.mp3</location>
+			<duration>164153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Speed%20Boat%20Theme.mp3</location>
+			<duration>225149</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Dubmood%20-%20Rez%20Cracktro%204.flv</location>
+			<duration>172431</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Power%20Core.mp3</location>
+			<duration>126406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Crypt.mp3</location>
+			<duration>312795</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/DEF%20CON%20CTF%202015%20-%20Game%20Replay.flv</location>
+			<duration>2536848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Dozing%20off%20...mp4</location>
+			<duration>2700412</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Lets%20Roll.mp3</location>
+			<duration>179513</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Music/music/Darko.mp3</location>
+			<title>Darko</title>
+			<creator>Booka Shade</creator>
+			<album>Movements</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/tinker/.cache/vlc/art/artistalbum/Booka%20Shade/Movements/art.jpg</image>
+			<duration>371913</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Keygen_msuic/FFF%20-%20EA%20Games%20Multikg.xm</location>
+			<title>Elrico VS LHS</title>
+			<annotation>Tracked and Composed
+By LHS &amp; Elrico
+----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+natan1@chipmusic.nu
+</annotation>
+			<duration>92159</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Just%20chilling...flv</location>
+			<duration>3713636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Dark%20Prince%20(Final%20Cut).mp3</location>
+			<duration>584202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Music/music/03%20Naturescent.mp3</location>
+			<creator>TRS-80</creator>
+			<annotation> 00000907 0000092A 0000B120 0000B430 000391E0 000391E0 00008AB5 00008CC2 00026148 000292B0</annotation>
+			<duration>263904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/Rocc%20-%20Hope%20You&amp;re%20Doing%20Well%20(Full%20Album).mp4</location>
+			<duration>2115756</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/tinker/Music/8k.mp3</location>
+			<duration>208826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+	</extension>
+</playlist>
