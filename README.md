@@ -1,7 +1,7 @@
 BASH 101 
 
 
-ssh bash_user@r@193.168.40.12
+ssh bash_user@192.168.40.12
 
 
 WIFI:
